@@ -5,7 +5,7 @@
         int[] arr = new int[] { 1, 5, 10, 15, 20, 25, 30 };
 
         Console.WriteLine(RepeatRecursive("#", 5));
-        Console.WriteLine(string.Join(" ", ArraySum(arr, 1, 16)));
+        Console.WriteLine(string.Join(" ", ArraySum(arr, 1, 5)));
 
         Console.WriteLine(string.Join(' ', Change(47)));
 
