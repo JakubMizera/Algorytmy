@@ -1,4 +1,5 @@
-﻿namespace task_5;
+﻿// Jakub Mizera
+namespace task_5;
 
 public class Task5
 {
